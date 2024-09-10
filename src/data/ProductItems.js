@@ -11,8 +11,8 @@
 // import pot from "../assets/models/pot.glb";
 // import potUsdz from "../assets/models/pot.usdz";
 
-import Wheelchair from "../assets/models/Wheelchair.glb";
-import WheelchairUsdz from "../assets/models/Wheelchair.usdz";
+import Wheelchair from "../assets/models/WheelChair.glb";
+import WheelchairUsdz from "../assets/models/WheelChair.usdz";
 
 const productItems = [
   {
