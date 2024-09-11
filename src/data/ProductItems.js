@@ -13,6 +13,9 @@
 
 import Wheelchair from "../assets/models/WheelChair.glb";
 import WheelchairUsdz from "../assets/models/WheelChair.usdz";
+import wheelchair3 from '../assets/models/WheelChairGreen.glb';
+import wheelchair3usdz from '../assets/models/WheelChairGreen.usdz';
+
 
 const productItems = [
   {
@@ -23,6 +26,14 @@ const productItems = [
     category: "Chair",
     color: "Red",
    
+  },
+  {
+    id: 10,
+    name: "Wheel Chair",
+    modelSrc: wheelchair3,
+    iOSSrc: wheelchair3usdz,
+    category: "Chair",
+    color: "Red"
   },
   // {
   //   id: 1,
